@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello world 👋, I'm Pranav Jadhav.
+
+- 👀 I'm interested in Fullstack Software Engineering
+- 🌱 Tech Stack - JavaScript, Node, React, Express, MongoDB, Tailwind CSS, Redux Toolkit, Jest & React Testing Library, SQL and many more
+- 💞 Love to talk about System Design, Data Structures & Algorithms and Resume Writing
+- 🏆 Upskilling with Scaler Academy for 15+ months & Recognized as Scaler Rockstar for being in the top 5% of 50k+ learners
+- 📫 How to reach me? Please drop an email at trinitypranav@gmail.com
+
+
 
 <!--
 **trinitypranav/trinitypranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
