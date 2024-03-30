@@ -1,4 +1,4 @@
-## Hello world 👋, I'm Pranav Jadhav.
+## Hello world 👋, I'm Pranav Jadhav from Pune, India.
 
 - 👀 I'm interested in Fullstack Software Engineering
 - 🌱 Tech Stack - JavaScript, Node, React, Express, MongoDB, SQL, Tailwind CSS, Redux Toolkit, Jest and many more
