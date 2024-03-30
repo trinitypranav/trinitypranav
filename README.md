@@ -1,9 +1,9 @@
 ## Hello world 👋, I'm Pranav Jadhav.
 
 - 👀 I'm interested in Fullstack Software Engineering
-- 🌱 Tech Stack - JavaScript, Node, React, Express, MongoDB, Tailwind CSS, Redux Toolkit, Jest & React Testing Library, SQL and many more
-- 💞 Love to talk about System Design, Data Structures & Algorithms and Resume Writing
-- 🏆 Upskilling with Scaler Academy for 15+ months & Recognized as Scaler Rockstar for being in the top 5% of 50k+ learners
+- 🌱 Tech Stack - JavaScript, Node, React, Express, MongoDB, SQL, Tailwind CSS, Redux Toolkit, Jest and many more
+- 💞 Love to talk about System Design, Data Structures & Algorithms, JavaScript, Design Patterns and Resume Writing
+- 🏆 Recognized as [Scaler Rockstar](https://i.ibb.co/Q943Q5s/987b7c59-2530-4fa5-a753-59d2e7af3a93.jpg), ranked in top 5% of 50 thousand peers while upskilling DSA, Low Level Design, System Design over 15 months
 - 📫 How to reach me? Please drop an email at trinitypranav@gmail.com
 
 
