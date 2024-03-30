@@ -2,7 +2,7 @@
 
 - 👀 I'm interested in Fullstack Software Engineering
 - 🌱 Tech Stack - JavaScript, Node, React, Express, MongoDB, SQL, Tailwind CSS, Redux Toolkit, Jest and many more
-- 💞 Love to talk about System Design, DSA, JavaScript, Design Patterns and Resume Writing
+- 💞 Love to talk about System Design, Design Patterns, JavaScript, DSA and Resume Writing
 - 🏆 Recognized as [Scaler Rockstar](https://i.ibb.co/Q943Q5s/987b7c59-2530-4fa5-a753-59d2e7af3a93.jpg), ranked in top 5% of 50 thousand peers while upskilling DSA, Low Level Design, System Design over 15 months
 - 🤝 Always on the lookout for challenging opportunities in software engineering 
 - 📫 How to reach me? Please drop an email at trinitypranav@gmail.com
